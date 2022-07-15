@@ -12,11 +12,13 @@
   🤖 Tecnologias: <strong>PHP | LARAVEL | MYSQL | BOOTSTRAP | HTML | CSS | JQUERY | JAVASCRIPT | PYTHON | ASP CLASSIC.</strong>
 </p>
 
-<hr>
+##
 
 <a href="https://github.com/jpedrols" align="right">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpedrols&theme=dracula&show_icons=true" />
 </a>
+
+##
 
 **Utilidades**
 
@@ -32,8 +34,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  
+##
 
-<br/>
 <br/>
 
 <p align="left">
