@@ -50,3 +50,6 @@
   <a href="https://api.whatsapp.com/send?phone=035997709339" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>  
+
+
+![Snake animation](https://github.com/Xandre23/Xandre23/blob/output/github-contribution-grid-snake.svg)
