@@ -15,8 +15,10 @@
 ##
 
 <a href="https://github.com/jpedrols" align="right">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpedrols&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpedrols&theme=midnight-purple&show_icons=true" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrols&layout=compact&theme=midnight-purple)](https://github.com/jpedrols/github-readme-stats)
 
 ##
 
