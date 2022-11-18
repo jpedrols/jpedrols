@@ -5,7 +5,7 @@
 
 <p align="left"> 
   Olá, sou o João! <br>
-  Atualmente estou cursando <strong>Análise e Desenvolvimento de sistemas</strong> na UNINTER e trabalho como <strong>Desenvolvedor Laravel</strong> na empresa <strong>Amauri Contabilidade</strong>.
+  Atualmente estou cursando <strong>Análise e Desenvolvimento de sistemas</strong> na UNINTER e trabalho como <strong>Desenvolvedor Back-End</strong> na empresa <strong>Aiqfome</strong>.
 </p>
 
 <p align="left">
